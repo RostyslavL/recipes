@@ -11519,6 +11519,10 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.font-body {
+  font-family: Nunito;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -32359,6 +32363,8 @@ video {
   --tw-backdrop-sepia: sepia(100%);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
@@ -43326,6 +43332,10 @@ video {
 
   .sm\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .sm\:font-body {
+    font-family: Nunito;
   }
 
   .sm\:font-thin {
@@ -74967,6 +74977,10 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .md\:font-body {
+    font-family: Nunito;
+  }
+
   .md\:font-thin {
     font-weight: 100;
   }
@@ -106604,6 +106618,10 @@ video {
 
   .lg\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .lg\:font-body {
+    font-family: Nunito;
   }
 
   .lg\:font-thin {
@@ -138245,6 +138263,10 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .xl\:font-body {
+    font-family: Nunito;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -169882,6 +169904,10 @@ video {
 
   .\32xl\:font-mono {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .\32xl\:font-body {
+    font-family: Nunito;
   }
 
   .\32xl\:font-thin {
